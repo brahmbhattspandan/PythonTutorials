@@ -7,6 +7,11 @@ This repo provides python programming for beginners. The material is from Learni
 - [Run on Docker on AWS EC2](https://www.youtube.com/watch?v=Dtx-hI2V_GQ)
 - [Install Locally](http://jupyter.readthedocs.org/en/latest/install.html)
 
-Once you have Jupyter running you can clone my notebook via `git clone https://github.com/brahmbhattspandan/PythonTutorials.git`
+
+Once you have Jupyter running you can clone my notebook via 
+
+> `git clone https://github.com/brahmbhattspandan/PythonTutorials.git`
 
 Now just open the File from Jupyter notebook.
+
+> [How to create Git repo and commit files on Github](https://www.youtube.com/watch?v=N1JyPvCQ_ZY)
